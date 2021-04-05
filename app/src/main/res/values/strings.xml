@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dunk News</string>
+
+
+
+
+    <string name="sample_article">It has been Day 1 at Amazon ever since the company began more than a quarter-century ago. Day 1 is Amazon shorthand for staying hungry, making bold decisions and never forgetting about the customer. This start-up mentality — underdogs against the world — has been extremely good for Amazon’s shoppers and shareholders.
+
+Day 1 holds less appeal for some of Amazon’s employees, especially those doing the physical work in the warehouses. A growing number feel the company is pushing them past their limits and risking their health. They would like Amazon to usher in a more benign Day 2.
+
+The clash between the desire for Day 1 and Day 2 has been unfolding in Alabama, where Amazon warehouse workers in the community of Bessemer have voted on whether to form a union. Government labor regulators are getting ready to sort through the votes in the closely watched election. A result may come as soon as this week. If the union gains a foothold, it will be the first in the company’s history.
+
+Attention has been focused on Bessemer, but the struggle between Day 1 and Day 2 is increasingly playing out everywhere in Amazon’s world. At its heart, the conflict is about control. To maintain Day 1, the company needs to lower labor costs and increase productivity, which requires measuring and tweaking every moment of a worker’s existence.
+
+That kind of control is at the heart of the Amazon enterprise. The idea of surrendering it is the company’s greatest horror. Jeff Bezos, Amazon’s founder, wrote in his 2016 shareholder letter: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="politics">politics</string>
+    <string name="economy">economy</string>
+    <string name="sport">sport</string>
+    <string name="society">society</string>
+    <string name="culture">culter</string>
+    <string name="sample_news_title">Breaking News : Bitcoin has risen to 40000$+ in over a week.</string>
+</resources>
